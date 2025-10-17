@@ -4,7 +4,7 @@ New and re-used borders and icons for the SGB2. Apply the patch to the Super Gam
 This patch was made possible by the amazing [SGB2 Border Injector](https://github.com/blzla/SGB2-Border-Injector).
 
 ## Patch
-A BPS patch is available in this repository and at ROMhacking.net.
+A BPS patch is available in this repository and at https://www.romhacking.net/hacks/9196/
 
 ## Borders and Icons
 Original borders were created are available in this repository, including:
